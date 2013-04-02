@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<opml version="1.0">
+  <head>
+    <title>Pearson - Design Patterns in Ruby</title>
+  </head>
+  <body>
+    <outline text="Foreword xvii"/>
+    <outline text="Preface xix"/>
+    <outline text="Acknowledgments xxv"/>
+    <outline text="About the Author xxvii"/>
+
+    <outline text="PART I: Patterns and Ruby 1 ">
+
+      <outline text="Chapter 1: Building Better Programs with Patterns 3 ">
+
+	<outline text="The Gang of Four 4 "/>
+	<outline text="Patterns for Patterns 4 "/>
+	<outline text="Separate Out the Things That Change from Those That Stay the Same 5"/>
+	<outline text="Program to an Interface, Not an Implementation 5"/>
+	<outline text="Prefer Composition over Inheritance 7 "/>
+	<outline text="Delegate, Delegate, Delegate 12"/>
+	<outline text="You Ain't Gonna Need It 13"/>
+	<outline text="Fourteen Out of Twenty-Three 15 "/>
+	<outline text="Patterns in Ruby? 17 "/>
+
+      </outline>
+
+      <outline text="Chapter 2: Getting Started with Ruby 19 ">
+
+	<outline text="Interactive Ruby 20"/>
+	<outline text="Saying Hello World 20"/>
+	<outline text="Variables 23"/>
+	<outline text="Fixnums and Bignums 24"/>
+	<outline text="Floats 26"/>
+	<outline text="There Are No Primitives Here 26"/>
+	<outline text="But Sometimes There Is No Object 27"/>
+	<outline text="Truth, Lies, and nil 28"/>
+	<outline text="Decisions, Decisions 30"/>
+	<outline text="Loops 32"/>
+	<outline text="More about Strings 34"/>
+	<outline text="Symbols 37"/>
+	<outline text="Arrays 38"/>
+	<outline text="Hashes 40"/>
+	<outline text="Regular Expressions 40"/>
+	<outline text="A Class of Your Own 41"/>
+	<outline text="Getting at the Instance Variables 43"/>
+	<outline text="An Object Asks: Who Am I? 46"/>
+	<outline text="Inheritance, Subclasses, and Superclasses 46"/>
+	<outline text="Argument Options 47"/>
+	<outline text="Modules 49"/>
+	<outline text="Exceptions 52"/>
+	<outline text="Threads 53"/>
+	<outline text="Managing Separate Source Files 54"/>
+	<outline text="Wrapping Up 55"/>
+
+      </outline>
+
+    </outline>
+
+    <outline text="PART II: Patterns in Ruby 57 ">
+
+      <outline text="Chapter 3: Varying the Algorithm with the Template Method 59 ">
+
+	<outline text="Keeping Up with What Life Throws at You 60"/>
+	<outline text="Separate the Things That Stay the Same 61"/>
+	<outline text="Discovering the Template Method Pattern 65"/>
+	<outline text="Hook Methods 66"/>
+	<outline text="But Where Are All the Declarations? 68"/>
+	<outline text="Types, Safety, and Flexibility 69"/>
+	<outline text="Unit Tests Are Not Optional 71"/>
+	<outline text="Using and Abusing the Template Method Pattern 73"/>
+	<outline text="Templates in the Wild 74"/>
+	<outline text="Wrapping Up 75"/>
+
+      </outline>
+
+      <outline text="Chapter 4: Replacing the Algorithm with the Strategy 77 ">
+
+	<outline text="Delegate, Delegate, and Delegate Again 78"/>
+	<outline text="Sharing Data between the Context and the Strategy 80"/>
+	<outline text="Duck Typing Yet Again 82"/>
+	<outline text="Procs and Blocks 84"/>
+	<outline text="Quick-and-Dirty Strategies 88"/>
+	<outline text="Using and Abusing the Strategy Pattern 90"/>
+	<outline text="The Strategy Pattern in the Wild 90"/>
+	<outline text="Wrapping Up 92"/>
+
+      </outline>
+
+      <outline text="Chapter 5: Keeping Up with the Times with the Observer 95 ">
+
+	<outline text="Staying Informed 95"/>
+	<outline text="A Better Way to Stay Informed 97"/>
+	<outline text="Factoring Out the Observable Support 100"/>
+	<outline text="Code Blocks as Observers 104"/>
+	<outline text="Variations on the Observer Pattern 105"/>
+	<outline text="Using and Abusing the Observer Pattern 106"/>
+	<outline text="Observers in the Wild 108"/>
+	<outline text="Wrapping Up 109"/>
+
+      </outline>
+
+      <outline text="Chapter 6: Assembling the Whole from the Parts with the Composite 111 ">
+
+	<outline text="The Whole and the Parts 112"/>
+	<outline text="Creating Composites 114"/>
+	<outline text="Sprucing Up the Composite with Operators 118"/>
+	<outline text="An Array as a Composite? 119"/>
+	<outline text="An Inconvenient Difference 120"/>
+	<outline text="Pointers This Way and That 120"/>
+	<outline text="Using and Abusing the Composite Pattern 122"/>
+	<outline text="Composites in the Wild 123"/>
+	<outline text="Wrapping Up 125"/>
+
+      </outline>
+
+      <outline text="Chapter 7: Reaching into a Collection with the Iterator 127 ">
+
+	<outline text="External Iterators 127"/>
+	<outline text="Internal Iterators 130"/>
+	<outline text="Internal Iterators versus External Iterators 131"/>
+	<outline text="The Inimitable Enumerable 133"/>
+	<outline text="Using and Abusing the Iterator Pattern 134"/>
+	<outline text="Iterators in the Wild 136"/>
+	<outline text="Wrapping Up 140"/>
+
+      </outline>
+
+      <outline text="Chapter 8: Getting Things Done with Commands 143 ">
+
+	<outline text="An Explosion of Subclasses 144"/>
+	<outline text="An Easier Way 145"/>
+	<outline text="Code Blocks as Commands 147"/>
+	<outline text="Commands That Record 148"/>
+	<outline text="Being Undone by a Command 151"/>
+	<outline text="Queuing Up Commands 154"/>
+	<outline text="Using and Abusing the Command Pattern 154"/>
+	<outline text="The Command Pattern in the Wild 155"/>
+	<outline text="ActiveRecord Migrations 155"/>
+	<outline text="Madeleine 156"/>
+	<outline text="Wrapping Up 160"/>
+
+      </outline>
+
+      <outline text="Chapter 9: Filling in the Gaps with the Adapter 163 ">
+
+	<outline text="Software Adapters 164"/>
+	<outline text="The Near Misses 167"/>
+	<outline text="An Adaptive Alternative? 168"/>
+	<outline text="Modifying a Single Instance 170"/>
+	<outline text="Adapt or Modify? 172"/>
+	<outline text="Using and Abusing the Adapter Pattern 173"/>
+	<outline text="Adapters in the Wild 173"/>
+	<outline text="Wrapping Up 174"/>
+
+      </outline>
+
+      <outline text="Chapter 10: Getting in Front of Your Object with a Proxy 175 ">
+
+	<outline text="Proxies to the Rescue 176"/>
+	<outline text="The Protection Proxy 178"/>
+	<outline text="Remote Proxies 179"/>
+	<outline text="Virtual Proxies Make You Lazy 180"/>
+	<outline text="Eliminating That Proxy Drudgery 182"/>
+	<outline text="Message Passing and Methods 183"/>
+	<outline text="The method_missing Method 184"/>
+	<outline text="Sending Messages 185"/>
+	<outline text="Proxies without the Tears 185"/>
+	<outline text="Using and Abusing Proxies 189"/>
+	<outline text="Proxies in the Wild 190"/>
+	<outline text="Wrapping Up 192"/>
+
+      </outline>
+
+      <outline text="Chapter 11: Improving Your Objects with a Decorator 193 ">
+
+	<outline text="Decorators: The Cure for Ugly Code 193"/>
+	<outline text="Formal Decoration 200"/>
+	<outline text="Easing the Delegation Blues 200"/>
+	<outline text="Dynamic Alternatives to the Decorator Pattern 201"/>
+	<outline text="Wrapping Methods 202"/>
+	<outline text="Decorating with Modules 202"/>
+	<outline text="Using and Abusing the Decorator Pattern 204"/>
+	<outline text="Decorators in the Wild 205"/>
+	<outline text="Wrapping Up 206"/>
+
+      </outline>
+
+      <outline text="Chapter 12: Making Sure There Is Only One with the Singleton 207 ">
+
+	<outline text="One Object, Global Access 207"/>
+	<outline text="Class Variables and Methods 208"/>
+	<outline text="Class Variables 208"/>
+	<outline text="Class Methods 209"/>
+	<outline text="A First Try at a Ruby Singleton 211"/>
+	<outline text="Managing the Single Instance 212"/>
+	<outline text="Making Sure There Is Only One 213"/>
+	<outline text="The Singleton Module 214"/>
+	<outline text="Lazy and Eager Singletons 214"/>
+	<outline text="Alternatives to the Classic Singleton 215"/>
+	<outline text="Global Variables as Singletons 215"/>
+	<outline text="Classes as Singletons 216"/>
+	<outline text="Modules as Singletons 218"/>
+	<outline text="A Safety Harness or a Straitjacket? 219"/>
+	<outline text="Using and Abusing the Singleton Pattern 220"/>
+	<outline text="They Are Really Just Global Variables, Right? 220"/>
+	<outline text="Just How Many of These Singletons Do You Have? 221"/>
+	<outline text="Singletons on a Need-to-Know Basis 221"/>
+	<outline text="Curing the Testing Blues 223"/>
+	<outline text="Singletons in the Wild 224"/>
+	<outline text="Wrapping Up 225"/>
+
+      </outline>
+
+      <outline text="Chapter 13: Picking the Right Class with a Factory 227 ">
+
+	<outline text="A Different Kind of Duck Typing 228"/>
+	<outline text="The Template Method Strikes Again 231"/>
+	<outline text="Parameterized Factory Methods 233"/>
+	<outline text="Classes Are Just Objects, Too 236"/>
+	<outline text="Bad News: Your Program Hits the Big Time 237"/>
+	<outline text="Bundles of Object Creation 239"/>
+	<outline text="Classes Are Just Objects (Again) 241"/>
+	<outline text="Leveraging the Name 242"/>
+	<outline text="Using and Abusing the Factory Patterns 244"/>
+	<outline text="Factory Patterns in the Wild 244"/>
+	<outline text="Wrapping Up 246"/>
+
+      </outline>
+
+      <outline text="Chapter 14: Easier Object Construction with the Builder 249 ">
+
+	<outline text="Building Computers 250"/>
+	<outline text="Polymorphic Builders 253"/>
+	<outline text="Builders Can Ensure Sane Objects 256"/>
+	<outline text="Reusable Builders 257"/>
+	<outline text="Better Builders with Magic Methods 258"/>
+	<outline text="Using and Abusing the Builder Pattern 259"/>
+	<outline text="Builders in the Wild 259"/>
+	<outline text="Wrapping Up 260"/>
+
+      </outline>
+
+      <outline text="Chapter 15: Assembling Your System with the Interpreter 263 ">
+
+	<outline text="The Right Language for the Job 264"/>
+	<outline text="Building an Interpreter 264"/>
+	<outline text="A File-Finding Interpreter 267"/>
+	<outline text="Finding All the Files 267"/>
+	<outline text="Finding Files by Name 268"/>
+	<outline text="Big Files and Writable Files 269"/>
+	<outline text="More Complex Searches with Not, And, and Or 270"/>
+	<outline text="Creating the AST 272"/>
+	<outline text="A Simple Parser 272"/>
+	<outline text="A Parser-less Interpreter? 274"/>
+	<outline text="Let XML or YAML Do the Parsing? 276"/>
+	<outline text="Racc for More Complex Parsers 277"/>
+	<outline text="Let Ruby Do the Parsing? 277"/>
+	<outline text="Using and Abusing the Interpreter Pattern 277"/>
+	<outline text="Interpreters in the Wild 278"/>
+	<outline text="Wrapping Up 279"/>
+
+      </outline>
+
+    </outline>
+
+    <outline text="PART III: Patterns for Ruby 281 ">
+
+      <outline text="Chapter 16: Opening Up Your System with Domain-Specific Languages 283 ">
+
+	<outline text="The Domain of Specific Languages 283"/>
+	<outline text="A File Backup DSL 284"/>
+	<outline text="It's a Data File--No, It's a Program! 285"/>
+	<outline text="Building PackRat 287"/>
+	<outline text="Pulling Our DSL Together 288"/>
+	<outline text="Taking Stock of PackRat 289"/>
+	<outline text="Improving PackRat 290"/>
+	<outline text="Using and Abusing Internal DSLs 293"/>
+	<outline text="Internal DSLs in the Wild 294"/>
+	<outline text="Wrapping Up 295"/>
+
+      </outline>
+
+      <outline text="Chapter 17: Creating Custom Objects with Meta-programming 297 ">
+
+	<outline text="Custom-Tailored Objects, Method by Method 298"/>
+	<outline text="Custom Objects, Module by Module 300"/>
+	<outline text="Conjuring Up Brand-New Methods 301"/>
+	<outline text="An Object's Gaze Turns Inward 306"/>
+	<outline text="Using and Abusing Meta-programming 306"/>
+	<outline text="Meta-programming in the Wild 308"/>
+	<outline text="Wrapping Up 311"/>
+
+      </outline>
+
+      <outline text="Chapter 18: Convention Over Configuration 313 ">
+
+	<outline text="A Good User Interface--for Developers 315"/>
+	<outline text="Anticipate Needs 315"/>
+	<outline text="Let Them Say It Once 316"/>
+	<outline text="Provide a Template 316"/>
+	<outline text="A Message Gateway 317"/>
+	<outline text="Picking an Adapter 319"/>
+	<outline text="Loading the Classes 320"/>
+	<outline text="Adding Some Security 323"/>
+	<outline text="Getting the User Started 325"/>
+	<outline text="Taking Stock of the Message Gateway 326"/>
+	<outline text="Using and Abusing the Convention Over Configuration Pattern 327"/>
+	<outline text="Convention Over Configuration in the Wild 328"/>
+	<outline text="Wrapping Up 328"/>
+
+      </outline>
+      
+    </outline>
+
+    <outline text="Chapter 19: Conclusion 331 "/>
+
+    <outline text="Appendix A: Getting Hold of Ruby 333"/>
+
+    <outline text="Appendix B: Digging Deeper 335 "/>
+
+    <outline text="Index 339 "/>
+  </body>
+</opml>
+
+<!-- Local variables: -->
+<!-- mode: nxml -->
+<!-- End: -->
